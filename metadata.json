@@ -1,0 +1,7 @@
+{
+  "name": "Maravillas del Mundo Moderno - Guía Colombiana",
+  "description": "Explora las siete maravillas del mundo moderno con información detallada para viajeros desde Colombia y un asistente virtual impulsado por IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
