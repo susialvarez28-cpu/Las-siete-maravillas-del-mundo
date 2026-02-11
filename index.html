@@ -11,6 +11,7 @@
         body {
             font-family: 'Inter', sans-serif;
             scroll-behavior: smooth;
+            background-color: black;
         }
         .font-playfair {
             font-family: 'Playfair Display', serif;
@@ -35,14 +36,18 @@
   "imports": {
     "@google/genai": "https://esm.sh/@google/genai@^1.39.0",
     "react-router-dom": "https://esm.sh/react-router-dom@^7.13.0",
+    "react-dom/client": "https://esm.sh/react-dom@^19.2.4/client",
+    "react-dom": "https://esm.sh/react-dom@^19.2.4",
+    "react": "https://esm.sh/react@^19.2.4",
     "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
-    "react/": "https://esm.sh/react@^19.2.4/",
-    "react": "https://esm.sh/react@^19.2.4"
+    "react/": "https://esm.sh/react@^19.2.4/"
   }
 }
 </script>
 </head>
 <body class="bg-black text-gray-100">
     <div id="root"></div>
+    <!-- Script de entrada esencial para que la aplicación cargue -->
+    <script type="module" src="index.tsx"></script>
 </body>
 </html>

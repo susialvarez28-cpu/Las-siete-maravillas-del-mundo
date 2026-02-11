@@ -20,7 +20,7 @@ export const WONDERS: Wonder[] = [
       architecture: 'Extraordinariamente larga, con 7.300 km de este a oeste. Cubre 6.400 km cruzando siete provincias.',
       importance: 'Patrimonio de la Humanidad por la UNESCO desde 1987. Reconstruida por diferentes dinastías por más de 1.000 años.',
       experience: 'Caminatas con vistas espectaculares de montañas escarpadas.',
-      bestTime: 'Primavera (Abril-Mayo) and Otoño (Septiembre-Octubre).'
+      bestTime: 'Primavera (Abril-Mayo) y Otoño (Septiembre-Octubre).'
     },
     curiosities: [
       'El propósito principal era impedir que los invasores trajeran caballos.',
@@ -34,7 +34,7 @@ export const WONDERS: Wonder[] = [
     country: 'Jordania',
     location: { lat: 30.3285, lng: 35.4444, city: 'Ma\'an' },
     image: 'https://cnjddrqxqfnonjfhxbcx.supabase.co/storage/v1/object/public/Imagenes/IMG_0101.webp',
-    history: 'Petra significa "piedra" en griego. Fue la capital del antiguo reino nabateo y se localiza en un valle angosto al su del Mar Muerto.',
+    history: 'Petra significa "piedra" en griego. Fue la capital del antiguo reino nabateo y se localiza en un valle angosto al sur del Mar Muerto.',
     travelFromColombia: {
       routes: ['Bogotá (BOG) -> Madrid/Estambul -> Ammán (AMM)', 'Cali (CLO) -> Panamá -> Estambul -> Ammán'],
       airports: ['Aeropuerto Internacional de la Reina Alia (Ammán)'],
@@ -127,7 +127,7 @@ export const WONDERS: Wonder[] = [
       bestTime: 'Noviembre a Febrero (clima más fresco).'
     },
     curiosities: [
-      'Sufrió un declive violento hacia el final del siglo XIII con incendios en sus estructuras.',
+      'Sufrió un delive violento hacia el final del siglo XIII con incendios en sus estructuras.',
       'Su arquitectura muestra una mezcla única de estilos regionales y del Altiplano Central.',
       'Fue el centro de poder más importante de la península yucateca.'
     ]
